@@ -43,7 +43,5 @@ function iLoveTheBeatles(num) {
      array.push('I love the Beatles!');
   } while (num < 8);{
   return array;
-  } else {
-    
-  }
+  }   }
 }
